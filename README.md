@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi I am Mehmet Samed Tek  
 
-<!--
+I am a freshman Computer Science student at Bilkent University.
 **mehmetsamettek/mehmetsamettek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
